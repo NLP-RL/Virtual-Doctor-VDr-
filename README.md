@@ -14,12 +14,12 @@ Abhisek Tiwari, a research scholar, has received the highly regarded Prime Minis
 
 # Main Contributors:
 ## Abhisek Tiwari
-![Screenshot](abhisek.jpg)
+![Screenshot](abhisek.jpg | width=100)
 Research Scolar (PMRF) ,Department of Computer Science and Engineering, Indian Institute of Technology, Patna
 Website: https://abhisektiwari.github.io/
 
 ## Dr Sriparna Saha
-![Screenshot](SS.jpg)
+![Screenshot](SS.jpg | width=100)
 Associate Professor, Department of Computer Science and Engineering, Indian Institute of Technology, Patna
 Website: https://www.iitp.ac.in/~sriparna/
 
