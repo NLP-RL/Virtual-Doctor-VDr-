@@ -84,10 +84,22 @@ All India Institute of Medical Science Rishikesh, India <br>
 # Platform
 
 **Towards Building An Automatic Disease Diagnosis Assistant** <br>
-website: https://nlp-rl.github.io/ 
+<p align="center">
+
+<img src='Platform.png' width='1000'>
+  
+</p>
+**website**: https://nlp-rl.github.io/ 
 
 
 # Media Coverage
+
+<p align="center">
+
+<img src='MediaCov.png' width='1000'>
+  
+</p>
+
 * **The Times Of India**: https://timesofindia.indiatimes.com/city/patna/iit-p-scholars-developing-virtual-doc-for-early-diagnosis-of-diseases/articleshow/94141545.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIArticleshowicon
 * **Prabhat Khabar**: https://www.prabhatkhabar.com/state/bihar/patna/iit-patna-is-making-virtual-doctor-for-telemedicine-facility-will-be-easy-ans
 * **Ketodietcenter**: https://www.prabhatkhabar.com/state/bihar/patna/iit-patna-is-making-virtual-doctor-for-telemedicine-facility-will-be-easy-ans
