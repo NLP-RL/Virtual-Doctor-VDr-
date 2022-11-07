@@ -5,6 +5,8 @@ The World Health Organization (WHO, 2016) predicts that there will be more than 
 
 # Main Contributors:
 Abhisek Tiwari: Research Scolar (PMRF) ,Department of Computer Science and Engineering, Indian Institute of Technology, Patna
+![Screenshot](abhisek.jpg)
+
 https://abhisektiwari.github.io/
 Dr Sriparna Saha: Associate Professor, Department of Computer Science and Engineering, Indian Institute of Technology, Patna
 https://www.iitp.ac.in/~sriparna/
@@ -28,4 +30,5 @@ The Times Of India: https://timesofindia.indiatimes.com/city/patna/iit-p-scholar
 #Ketodietcenter: https://www.prabhatkhabar.com/state/bihar/patna/iit-patna-is-making-virtual-doctor-for-telemedicine-facility-will-be-easy-ans
 #India_News_Online: https://indianews-online.com/2022/09/12/iit-p-scholars-developing-virtual-doc-for-early-diagnosis-of-diseases-health-news-et-healthworld/
 
-# Support Aknowledgement: Abhisek Tiwari would also like to acknowledge the gracious support provided by the PMRF (Prime Minister Research Fellowship, Government of India) grant for conducting the research.
+# Support Aknowledgement: 
+Abhisek Tiwari would also like to acknowledge the gracious support provided by the PMRF (Prime Minister Research Fellowship, Government of India) grant for conducting the research.
