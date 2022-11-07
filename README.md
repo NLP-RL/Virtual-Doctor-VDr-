@@ -13,25 +13,34 @@ Abhisek Tiwari, a research scholar, has received the highly regarded Prime Minis
 
 
 # Main Contributors:
-## Abhisek Tiwari
-![Screenshot](abhisek.jpg | width=100)
-Research Scolar (PMRF) ,Department of Computer Science and Engineering, Indian Institute of Technology, Patna
-Website: https://abhisektiwari.github.io/
+## Abhisek Tiwari <br>
+Research Scolar (PMRF) <br>
+Department of Computer Science and Engineering <br>
+Indian Institute of Technology, Patna, India <br>
+**Website**: https://abhisektiwari.github.io/
+![image](abhisek.jpg = 150x150)
 
 ## Dr Sriparna Saha
-![Screenshot](SS.jpg | width=100)
-Associate Professor, Department of Computer Science and Engineering, Indian Institute of Technology, Patna
-Website: https://www.iitp.ac.in/~sriparna/
+Associate Professor <br> 
+Department of Computer Science and Engineering <br>
+Indian Institute of Technology, Patna, India <br>
+**Website**: https://www.iitp.ac.in/~sriparna/ 
+![image](SS.jpg = 150x150)
+
 
 ## Prof Pushpak Bhattacharyya
-![Screenshot](Prof.PushpakBhattacharyya.jpg)
-Professor, Department of Computer Science and Engineering, Indian Institute of Technology, Bombay
-Website: https://www.cse.iitb.ac.in/~pb/
+Professor <br>
+Department of Computer Science and Engineering <br>
+Indian Institute of Technology, Bombay, India <br>
+**Website**: https://www.cse.iitb.ac.in/~pb/
+![image](Prof.PushpakBhattacharyya.jpg = 150x150) 
 
 ## Prof Miankshi Dhar
-![Screenshot](Minakshi.jpg)
-Professor, Department of Internal Medicine, All India Institute of Medical Science Rishikesh
-https://medicallearninghub.com/faculty/dr-minakshi-dhar
+Professor, <br>
+Department of Internal Medicine <br>
+All India Institute of Medical Science Rishikesh, India <br>
+**Website**: https://medicallearninghub.com/faculty/dr-minakshi-dhar
+![image](Minakshi.jpg = 150x150) 
 
 # Publications 
 
