@@ -8,6 +8,8 @@ The World Health Organization (WHO, 2016) predicts that there will be more than 
 
 * Most of the countries across the globe  have only 0.01% - 0.1% doctors.
 
+**With the motivation of efficient time utilization of doctors and early diagnosis, we strated to build an AI-assisted virtual assistant for symptomm investigaton and disease diagnosis**
+
 
 Abhisek Tiwari, a research scholar, has received the highly regarded Prime Minister Research Fellowship (PMRF) for the project by MHRD, Government of India.  The project is mentored by Abhisek’s Ph.D. supervisor, Dr. Sriparna Saha (Associate Professor, IIT Patna), and Prof. Pushpak Bhattacharyya (Professor, IIT Bombay). In addition, the project is being supervised and mentored by Dr. Minakshi Dhar (Senior Doctor at AIIMS Rishikesh). Dr. Dhar provides the guidelines for the expected behavior of the AI-based junior doctor and continuously examines the ongoing progress. The researchers and doctors have been working on the project since last year, and they are expecting it to be ready for final screening and deployment by 2024. <br>
 
@@ -18,14 +20,14 @@ Research Scolar (PMRF) <br>
 Department of Computer Science and Engineering <br>
 Indian Institute of Technology, Patna, India <br>
 **Website**: https://abhisektiwari.github.io/ <br>
-<img src='abhisek.jpg' width='100'>
+<img src='abhisek.jpg' width='200'>
 
 ## Dr Sriparna Saha
 Associate Professor <br> 
 Department of Computer Science and Engineering <br>
 Indian Institute of Technology, Patna, India <br>
 **Website**: https://www.iitp.ac.in/~sriparna/  <br>
-<img src='SS.jpg' width='100'>
+<img src='SS.jpg' width='200'>
 
 
 ## Prof Pushpak Bhattacharyya
@@ -33,7 +35,7 @@ Professor <br>
 Department of Computer Science and Engineering <br>
 Indian Institute of Technology, Bombay, India <br>
 **Website**: https://www.cse.iitb.ac.in/~pb/ <br>
-<img src='Prof.PushpakBhattacharyya.jpg' width='100'>
+<img src='Prof.PushpakBhattacharyya.jpg' width='200'>
 
 
 ## Prof Miankshi Dhar
@@ -41,7 +43,7 @@ Professor, <br>
 Department of Internal Medicine <br>
 All India Institute of Medical Science Rishikesh, India <br>
 **Website**: https://medicallearninghub.com/faculty/dr-minakshi-dhar <br>
-<img src='Minakshi.jpg' width='100'>
+<img src='Minakshi.jpg' width='200'>
 
 # Publications 
 
