@@ -18,6 +18,7 @@ Research Scolar (PMRF) <br>
 Department of Computer Science and Engineering <br>
 Indian Institute of Technology, Patna, India <br>
 **Website**: https://abhisektiwari.github.io/
+<img src='abhisek.jpg' width='25'>
 ![image](abhisek.jpg = 150x150)
 
 ## Dr Sriparna Saha
