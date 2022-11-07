@@ -47,7 +47,8 @@ https://medicallearninghub.com/faculty/dr-minakshi-dhar
 ### A Knowledge Infused Context Driven Dialogue Agent for Disease Diagnosis using Hierarchical Reinforcement Learning <br>
 **Abstract**:Disease diagnosis is an essential and critical step in any disease treatment process. Automatic diagnostic testing has gained popularity in recent years due to its scalability, rationality, and efficacy. The major challenges for the diagnosis agent are inevitably large action space (symptoms) and varieties of diseases, which demand either rich domain knowledge or an intelligent learning framework. We propose a novel knowledge-infused context-driven (KI-CD) hierarchical reinforcement learning (HRL) based diagnosis dialogue system, which leverages a bayesian learning-inspired symptom investigation module called potential candidate module (PCM) for aiding context-aware, knowledge grounded symptom investigation. The PCM module serves as a context and knowledge guiding companion for lower-level policies, leveraging current context and disease-symptom knowledge to identify candidate diseases and potential symptoms, and reinforcing the agent for conducting an intelligent and context guided symptom investigation with the information enriched state and an additional critic known as learner critic. The knowledge-guided symptom investigation extracts an adequate set of symptoms for disease identification, whereas the context-aware symptom investigation aspect substantially improves topic (symptom) transition and enhances user experiences. Furthermore, we also propose and incorporate a hierarchical disease classifier (HDC) with the model for alleviating symptom state sparsity issues, which has led to a significant improvement in disease classification accuracy. Experimental results (both quantitatively and qualitatively) on the benchmarked dataset establish the need and efficacy of the proposed framework. <br>
 
-**Author**: Abhisek Tiwari,Sriparna Saha, Pushpak Bhattacharyya - Knowledge Based Systems (KBS)<br>
+**Author**: Abhisek Tiwari,Sriparna Saha, Pushpak Bhattacharyya <br>
+**Journal**: Knowledge Based Systems (KBS) <br>
 **Link**: https://www.sciencedirect.com/science/article/pii/S0950705122000971 <br>
 **Github**: https://github.com/NLP-RL/KI-CD 
 
@@ -62,10 +63,10 @@ https://medicallearninghub.com/faculty/dr-minakshi-dhar
 
 
 # Media Coverage
-* The Times Of India: https://timesofindia.indiatimes.com/city/patna/iit-p-scholars-developing-virtual-doc-for-early-diagnosis-of-diseases/articleshow/94141545.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIArticleshowicon
-* Prabhat Khabar: https://www.prabhatkhabar.com/state/bihar/patna/iit-patna-is-making-virtual-doctor-for-telemedicine-facility-will-be-easy-ans
-* Ketodietcenter: https://www.prabhatkhabar.com/state/bihar/patna/iit-patna-is-making-virtual-doctor-for-telemedicine-facility-will-be-easy-ans
-* India_News_Online: https://indianews-online.com/2022/09/12/iit-p-scholars-developing-virtual-doc-for-early-diagnosis-of-diseases-health-news-et-healthworld/
+* **The Times Of India**: https://timesofindia.indiatimes.com/city/patna/iit-p-scholars-developing-virtual-doc-for-early-diagnosis-of-diseases/articleshow/94141545.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIArticleshowicon
+* **Prabhat Khabar**: https://www.prabhatkhabar.com/state/bihar/patna/iit-patna-is-making-virtual-doctor-for-telemedicine-facility-will-be-easy-ans
+* **Ketodietcenter**: https://www.prabhatkhabar.com/state/bihar/patna/iit-patna-is-making-virtual-doctor-for-telemedicine-facility-will-be-easy-ans
+* **India News Online**: https://indianews-online.com/2022/09/12/iit-p-scholars-developing-virtual-doc-for-early-diagnosis-of-diseases-health-news-et-healthworld/
 
 # Support Aknowledgement: 
 Abhisek Tiwari would also like to acknowledge the gracious support provided by the PMRF (Prime Minister Research Fellowship, Government of India) grant for conducting the research.
