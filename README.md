@@ -8,7 +8,11 @@ The World Health Organization (WHO, 2016) predicts that there will be more than 
 
 * Most of the countries across the globe  have only 0.01% - 0.1% doctors.
 
+
+
 **With the motivation of efficient time utilization of doctors and early diagnosis, we strated to build an AI-assisted virtual assistant for symptomm investigaton and disease diagnosis**
+
+<center><img src='VD.png' width='300'><\center>
 
 
 Abhisek Tiwari, a research scholar, has received the highly regarded Prime Minister Research Fellowship (PMRF) for the project by MHRD, Government of India.  The project is mentored by Abhisek’s Ph.D. supervisor, Dr. Sriparna Saha (Associate Professor, IIT Patna), and Prof. Pushpak Bhattacharyya (Professor, IIT Bombay). In addition, the project is being supervised and mentored by Dr. Minakshi Dhar (Senior Doctor at AIIMS Rishikesh). Dr. Dhar provides the guidelines for the expected behavior of the AI-based junior doctor and continuously examines the ongoing progress. The researchers and doctors have been working on the project since last year, and they are expecting it to be ready for final screening and deployment by 2024. <br>
