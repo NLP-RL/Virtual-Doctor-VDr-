@@ -4,24 +4,38 @@ The World Health Organization (WHO, 2016) predicts that there will be more than 
 
 
 # Main Contributors:
-Abhisek Tiwari: Research Scolar (PMRF) ,Department of Computer Science and Engineering, Indian Institute of Technology, Patna
+## Abhisek Tiwari
 ![Screenshot](abhisek.jpg)
+Research Scolar (PMRF) ,Department of Computer Science and Engineering, Indian Institute of Technology, Patna
+Website: https://abhisektiwari.github.io/
 
-https://abhisektiwari.github.io/
-Dr Sriparna Saha: Associate Professor, Department of Computer Science and Engineering, Indian Institute of Technology, Patna
-https://www.iitp.ac.in/~sriparna/
-Prof Pushpak Bhattacharyya: Professor, Department of Computer Science and Engineering, Indian Institute of Technology, Bombay
-https://www.cse.iitb.ac.in/~pb/
-Prof Miankshi Dhar: Professor, Department of Internal Medicine, All India Institute of Medical Science Rishikesh
+## Dr Sriparna Saha
+![Screenshot](SS.jpg)
+Associate Professor, Department of Computer Science and Engineering, Indian Institute of Technology, Patna
+Website: https://www.iitp.ac.in/~sriparna/
+
+## Prof Pushpak Bhattacharyya
+![Screenshot](Prof.PushpakBhattacharyya.jpg)
+Professor, Department of Computer Science and Engineering, Indian Institute of Technology, Bombay
+Website: https://www.cse.iitb.ac.in/~pb/
+
+## Prof Miankshi Dhar
+![Screenshot](Minakshi.jpg)
+Professor, Department of Internal Medicine, All India Institute of Medical Science Rishikesh
 https://medicallearninghub.com/faculty/dr-minakshi-dhar
 
 # Publications 
 
-Dr. Can See: Towards a Multi-modal Disease Diagnosis Virtual Assistant:Abhisek Tiwari, Manisimha Manthena, Sriparna Saha, Pushpak Bhattacharyya, Minakshi Dhar, and Sarbajeet Tiwari - 31st ACM International Conference on Information and Knowledge Management (CIKM) 2022, Link: https://dl.acm.org/doi/abs/10.1145/3511808.3557296
+### Dr. Can See: Towards a Multi-modal Disease Diagnosis Virtual Assistant
+Abhisek Tiwari, Manisimha Manthena, Sriparna Saha, Pushpak Bhattacharyya, Minakshi Dhar, and Sarbajeet Tiwari - 31st ACM International Conference on Information and Knowledge Management (CIKM) 2022
+Link: https://dl.acm.org/doi/abs/10.1145/3511808.3557296
 
-A Knowledge Infused Context Driven Dialogue Agent for Disease Diagnosis using Hierarchical Reinforcement Learning: Abhisek Tiwari,Sriparna Saha, Pushpak Bhattacharyya - Knowledge Based Systems (KBS)
+### A Knowledge Infused Context Driven Dialogue Agent for Disease Diagnosis using Hierarchical Reinforcement Learning
+Abhisek Tiwari,Sriparna Saha, Pushpak Bhattacharyya - Knowledge Based Systems (KBS)
+Link: https://www.sciencedirect.com/science/article/pii/S0950705122000971
 
-Symptoms are known by their companies: Towards Association Guided Disease Diagnosis Assistant: Abhisek Tiwari, Tulika Saha, Sriparna Saha, Pushpak Bhattacharyya, shemim begum, Minakshi Dhar, Sarbajeet Tiwari - 2022, BMC Bioinformatics (Accepted)
+### Symptoms are known by their companies: Towards Association Guided Disease Diagnosis Assistant
+Abhisek Tiwari, Tulika Saha, Sriparna Saha, Pushpak Bhattacharyya, shemim begum, Minakshi Dhar, Sarbajeet Tiwari - 2022, BMC Bioinformatics (Accepted)
 
 
 # Media Coverage
