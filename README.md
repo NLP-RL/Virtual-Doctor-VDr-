@@ -16,34 +16,34 @@ Abhisek Tiwari, a research scholar, has received the highly regarded Prime Minis
 
 # Main Contributors:
 ## Abhisek Tiwari <br>
+<img src='abhisek.jpg' width='200'>
 Research Scolar (PMRF) <br>
 Department of Computer Science and Engineering <br>
 Indian Institute of Technology, Patna, India <br>
 **Website**: https://abhisektiwari.github.io/ <br>
-<img src='abhisek.jpg' width='200'>
 
 ## Dr Sriparna Saha
+<img src='SS.jpg' width='200'>
 Associate Professor <br> 
 Department of Computer Science and Engineering <br>
 Indian Institute of Technology, Patna, India <br>
 **Website**: https://www.iitp.ac.in/~sriparna/  <br>
-<img src='SS.jpg' width='200'>
 
 
 ## Prof Pushpak Bhattacharyya
+<img src='Prof.PushpakBhattacharyya.jpg' width='200'>
 Professor <br>
 Department of Computer Science and Engineering <br>
 Indian Institute of Technology, Bombay, India <br>
 **Website**: https://www.cse.iitb.ac.in/~pb/ <br>
-<img src='Prof.PushpakBhattacharyya.jpg' width='200'>
 
 
 ## Prof Miankshi Dhar
+<img src='Minakshi.jpg' width='200'>
 Professor, <br>
 Department of Internal Medicine <br>
 All India Institute of Medical Science Rishikesh, India <br>
 **Website**: https://medicallearninghub.com/faculty/dr-minakshi-dhar <br>
-<img src='Minakshi.jpg' width='200'>
 
 # Publications 
 
