@@ -23,15 +23,15 @@ I, Abhisek Tiwari, have received the highly regarded Prime Minister Research Fel
 
 # Main Contributors:
 ## Abhisek Tiwari <br>
-<img src='abhisek.jpg' width='250'>
+<img src='abhisek.jpg' width='300'>
 Research Scolar (PMRF) <br>
 Department of Computer Science and Engineering <br>
 Indian Institute of Technology, Patna, India <br>
-*EmailID*: abhisektiwari2014@gmail.com <br>
+*EmailID*:abhisektiwari2014@gmail.com <br>
 **Website**: https://abhisektiwari.github.io/ 
 
 ## Dr Sriparna Saha
-<img src='SS.jpg' width='250'>
+<img src='SS.jpg' width='300'>
 Associate Professor <br> 
 Department of Computer Science and Engineering <br>
 Indian Institute of Technology, Patna, India <br>
@@ -40,7 +40,7 @@ Indian Institute of Technology, Patna, India <br>
 
 
 ## Prof Pushpak Bhattacharyya
-<img src='Prof.PushpakBhattacharyya.jpg' width='250'>
+<img src='Prof.PushpakBhattacharyya.jpg' width='300'>
 Professor <br>
 Department of Computer Science and Engineering <br>
 Indian Institute of Technology, Bombay, India <br>
@@ -49,11 +49,11 @@ Indian Institute of Technology, Bombay, India <br>
 
 
 ## Prof Miankshi Dhar
-<img src='Minakshi.jpg' width='250'>
+<img src='Minakshi.jpg' width='300'>
 Professor, <br>
 Department of Internal Medicine <br>
 All India Institute of Medical Science Rishikesh, India <br>
-*EmailID*: @gmail.com <br>
+*EmailID*: minakshi.dhar@rediffmail.com <br>
 **Website**: https://medicallearninghub.com/faculty/dr-minakshi-dhar 
 
 # Publications 
