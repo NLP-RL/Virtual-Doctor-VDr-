@@ -113,29 +113,4 @@ All India Institute of Medical Science Rishikesh, India <br>
 **Github**:https://github.com/NLP-RL/A-SIDDS
 
 
-# Platform
 
-**Towards Building An Automatic Disease Diagnosis Assistant** <br>
-<p align="center">
-
-<img src='Platform.png' width='1000'>
-  
-</p>
-**website**: https://nlp-rl.github.io/ 
-
-
-# Media Coverage
-
-<p align="center">
-
-<img src='MediaCov.png' width='1000'>
-  
-</p>
-
-* **The Times Of India**: https://timesofindia.indiatimes.com/city/patna/iit-p-scholars-developing-virtual-doc-for-early-diagnosis-of-diseases/articleshow/94141545.cms?utm_source=whatsapp&utm_medium=social&utm_campaign=TOIArticleshowicon
-* **Prabhat Khabar**: https://www.prabhatkhabar.com/state/bihar/patna/iit-patna-is-making-virtual-doctor-for-telemedicine-facility-will-be-easy-ans
-* **Ketodietcenter**: https://www.prabhatkhabar.com/state/bihar/patna/iit-patna-is-making-virtual-doctor-for-telemedicine-facility-will-be-easy-ans
-* **India News Online**: https://indianews-online.com/2022/09/12/iit-p-scholars-developing-virtual-doc-for-early-diagnosis-of-diseases-health-news-et-healthworld/
-
-# Support Aknowledgement: 
-Abhisek Tiwari would also like to acknowledge the gracious support provided by the PMRF (Prime Minister Research Fellowship, Government of India) grant for conducting the research.
